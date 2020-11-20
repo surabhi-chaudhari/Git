@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Git3Application {
 
 	public static void main(String[] args) {
+                int y=22;
 		SpringApplication.run(Git3Application.class, args);
                     
                  int a=11;
